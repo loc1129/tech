@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T03:38:48.864Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="v_iveFd9fV8SBoBw2ZRL" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T03:45:35.144Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="ITPeuFYzY_kzDtccpURq" version="22.0.4" type="github">
   <diagram name="第 1 页" id="ocIofcMUBV1rS0fsKxsh">
     <mxGraphModel dx="1966" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,13 +78,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wwJD5AUUlx02HmQ3X0tN-18" value="消息平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFFF;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="-340" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wwJD5AUUlx02HmQ3X0tN-19" value="地图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFFF;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="310" width="120" height="40" as="geometry" />
+          <mxGeometry x="-340" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wwJD5AUUlx02HmQ3X0tN-20" value="知识库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFFF;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="380" width="120" height="40" as="geometry" />
+          <mxGeometry x="-340" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wwJD5AUUlx02HmQ3X0tN-21" value="安责险系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="700" y="240" width="120" height="40" as="geometry" />
@@ -101,7 +101,7 @@
             <mxPoint x="-170" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wwJD5AUUlx02HmQ3X0tN-25" value="推送" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wwJD5AUUlx02HmQ3X0tN-24">
+        <mxCell id="wwJD5AUUlx02HmQ3X0tN-25" value="风险预警&lt;br&gt;服务相关信息&lt;br&gt;保单相关信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wwJD5AUUlx02HmQ3X0tN-24">
           <mxGeometry x="0.0582" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -114,7 +114,7 @@
         </mxCell>
         <mxCell id="wwJD5AUUlx02HmQ3X0tN-27" value="地图信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wwJD5AUUlx02HmQ3X0tN-26">
           <mxGeometry x="0.1714" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wwJD5AUUlx02HmQ3X0tN-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.81;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wwJD5AUUlx02HmQ3X0tN-20" target="wwJD5AUUlx02HmQ3X0tN-1">
