@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T06:23:57.485Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="cWijpmIY2_T_hhF6mA3V" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T06:30:38.891Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="23sfc2eqU8NkPJsN6IL8" version="22.0.4" type="github">
   <diagram name="第 1 页" id="ocIofcMUBV1rS0fsKxsh">
     <mxGraphModel dx="2037" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
             <mxPoint x="-30" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wwJD5AUUlx02HmQ3X0tN-8" value="服务经理端" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wwJD5AUUlx02HmQ3X0tN-7">
+        <mxCell id="wwJD5AUUlx02HmQ3X0tN-8" value="服务经理交互数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wwJD5AUUlx02HmQ3X0tN-7">
           <mxGeometry x="-0.06" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -39,7 +39,7 @@
             <mxPoint x="100" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wwJD5AUUlx02HmQ3X0tN-10" value="专家端" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wwJD5AUUlx02HmQ3X0tN-9">
+        <mxCell id="wwJD5AUUlx02HmQ3X0tN-10" value="专家交互数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wwJD5AUUlx02HmQ3X0tN-9">
           <mxGeometry x="-0.06" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -50,7 +50,7 @@
             <mxPoint x="220" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wwJD5AUUlx02HmQ3X0tN-12" value="B端客户端" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wwJD5AUUlx02HmQ3X0tN-11">
+        <mxCell id="wwJD5AUUlx02HmQ3X0tN-12" value="B端客户交互数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wwJD5AUUlx02HmQ3X0tN-11">
           <mxGeometry x="-0.04" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -61,7 +61,7 @@
             <mxPoint x="370" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wwJD5AUUlx02HmQ3X0tN-14" value="管理端" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wwJD5AUUlx02HmQ3X0tN-13">
+        <mxCell id="wwJD5AUUlx02HmQ3X0tN-14" value="管理端交互数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wwJD5AUUlx02HmQ3X0tN-13">
           <mxGeometry x="-0.0588" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -72,7 +72,7 @@
             <mxPoint x="510" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wwJD5AUUlx02HmQ3X0tN-16" value="供应商端" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wwJD5AUUlx02HmQ3X0tN-15">
+        <mxCell id="wwJD5AUUlx02HmQ3X0tN-16" value="供应商端交互数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wwJD5AUUlx02HmQ3X0tN-15">
           <mxGeometry x="-0.0599" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
