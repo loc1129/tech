@@ -103,7 +103,7 @@
             <mxPoint x="640" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wwJD5AUUlx02HmQ3X0tN-31" value="安责险服务、&lt;br&gt;内容信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wwJD5AUUlx02HmQ3X0tN-30" vertex="1" connectable="0">
+        <mxCell id="wwJD5AUUlx02HmQ3X0tN-31" value="安责险服务相关信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wwJD5AUUlx02HmQ3X0tN-30" vertex="1" connectable="0">
           <mxGeometry x="0.0938" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -114,7 +114,7 @@
             <mxPoint x="620" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wwJD5AUUlx02HmQ3X0tN-33" value="风勘服务、&lt;br&gt;内容信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wwJD5AUUlx02HmQ3X0tN-32" vertex="1" connectable="0">
+        <mxCell id="wwJD5AUUlx02HmQ3X0tN-33" value="风勘服务相关信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wwJD5AUUlx02HmQ3X0tN-32" vertex="1" connectable="0">
           <mxGeometry x="-0.0143" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -139,17 +139,6 @@
         </mxCell>
         <mxCell id="wwJD5AUUlx02HmQ3X0tN-41" value="ECIF(团客版)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFFF;" parent="1" vertex="1">
           <mxGeometry x="160" y="490" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wwJD5AUUlx02HmQ3X0tN-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="wwJD5AUUlx02HmQ3X0tN-41" target="wwJD5AUUlx02HmQ3X0tN-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="510" as="sourcePoint" />
-            <mxPoint x="110" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wwJD5AUUlx02HmQ3X0tN-43" value="团客基础信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wwJD5AUUlx02HmQ3X0tN-42" vertex="1" connectable="0">
-          <mxGeometry x="0.0158" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="wwJD5AUUlx02HmQ3X0tN-44" value="团客画像" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFFF;" parent="1" vertex="1">
           <mxGeometry x="300" y="490" width="120" height="40" as="geometry" />
@@ -213,7 +202,7 @@
             <mxPoint x="-170" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wwJD5AUUlx02HmQ3X0tN-67" value="风险信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wwJD5AUUlx02HmQ3X0tN-65" vertex="1" connectable="0">
+        <mxCell id="wwJD5AUUlx02HmQ3X0tN-67" value="巨灾信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wwJD5AUUlx02HmQ3X0tN-65" vertex="1" connectable="0">
           <mxGeometry x="0.0167" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -301,17 +290,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bRgFQmrK4SToRLExfyc1-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.912;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wwJD5AUUlx02HmQ3X0tN-1" target="wwJD5AUUlx02HmQ3X0tN-47">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-250" y="490" as="sourcePoint" />
-            <mxPoint x="-200" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bRgFQmrK4SToRLExfyc1-2" value="行为埋点" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bRgFQmrK4SToRLExfyc1-1">
-          <mxGeometry x="-0.1024" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bRgFQmrK4SToRLExfyc1-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.912;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wwJD5AUUlx02HmQ3X0tN-47" target="wwJD5AUUlx02HmQ3X0tN-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-190" y="600" as="sourcePoint" />
@@ -351,6 +329,28 @@
         </mxCell>
         <mxCell id="bRgFQmrK4SToRLExfyc1-10" value="登陆账户信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bRgFQmrK4SToRLExfyc1-9">
           <mxGeometry x="-0.0333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bRgFQmrK4SToRLExfyc1-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wwJD5AUUlx02HmQ3X0tN-41" target="wwJD5AUUlx02HmQ3X0tN-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="490" as="sourcePoint" />
+            <mxPoint x="230" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bRgFQmrK4SToRLExfyc1-13" value="团客基础信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bRgFQmrK4SToRLExfyc1-12">
+          <mxGeometry x="0.04" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bRgFQmrK4SToRLExfyc1-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.912;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wwJD5AUUlx02HmQ3X0tN-47" target="wwJD5AUUlx02HmQ3X0tN-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="540" as="sourcePoint" />
+            <mxPoint x="710" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bRgFQmrK4SToRLExfyc1-16" value="服务策略" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bRgFQmrK4SToRLExfyc1-14">
+          <mxGeometry x="0.0433" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
